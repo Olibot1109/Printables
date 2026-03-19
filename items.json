@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Fidget cone",
+    "price": 1,
+    "details": "Smooth spinner with textured grip.",
+    "icon": "./banners/fidgetcone.webp"
+  },
+  {
+    "name": "Infinity cube",
+    "price": 1.0,
+    "details": "Classic cube that folds forever.",
+    "icon": "./banners/infinitycube.webp"
+  },
+  {
+    "name": "Ratchet fidget",
+    "price": 0.5,
+    "details": "Clicky noise keeps you on task.",
+    "icon": "./banners/ratchetfidget.jpg"
+  },
+  {
+    "name": "Snap links",
+    "price": 0.1,
+    "details": "Two links, perfect for tangle play.",
+    "qty": 2,
+    "icon": "./banners/snaplinks.webp"
+  },
+  {
+    "name": "The Rocktpus",
+    "price": 2.0,
+    "details": "Tentacled beast with a lighting slot.",
+    "icon": "./banners/therocktpus.webp"
+  },
+  {
+    "name": "Twisting Loop",
+    "price": 1.2,
+    "details": "Infinite twisting loop.",
+    "icon": "./banners/twistingloop.webp"
+  },
+  {
+    "name": "Custom",
+    "price": 2.0,
+    "details": "Design your own fidget with our team.",
+    "icon": "./banners/shocked-face-shocked-meme.gif"
+  },
+  {
+    "name": "Mystery box",
+    "price": 2.0,
+    "details": "Two pounds for a random fidget surprise.",
+    "icon": "./banners/mysterybox.webp"
+  }
+]
