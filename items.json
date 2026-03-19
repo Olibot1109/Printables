@@ -24,12 +24,6 @@
     "icon": "./banners/therocktpus.webp"
   },
   {
-    "name": "Twisting Loop",
-    "price": 1.2,
-    "details": "Infinite twisting loop.",
-    "icon": "./banners/twistingloop.webp"
-  },
-  {
     "name": "Lucky Dip",
     "price": 2.0,
     "details": "Two pounds for a random fidget surprise.",
