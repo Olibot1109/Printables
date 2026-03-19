@@ -30,9 +30,9 @@
     "icon": "./banners/twistingloop.webp"
   },
   {
-    "name": "Mystery box",
+    "name": "Lucky Dip",
     "price": 2.0,
     "details": "Two pounds for a random fidget surprise.",
-    "icon": "./banners/mysterybox.webp"
+    "icon": "./banners/luckydip.webp"
   }
 ]
