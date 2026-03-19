@@ -30,12 +30,6 @@
     "icon": "./banners/twistingloop.webp"
   },
   {
-    "name": "Custom",
-    "price": 2.0,
-    "details": "Design your own fidget with our team.",
-    "icon": "./banners/shocked-face-shocked-meme.gif"
-  },
-  {
     "name": "Mystery box",
     "price": 2.0,
     "details": "Two pounds for a random fidget surprise.",
