@@ -33,6 +33,6 @@
     "name": "Lucky Dip",
     "price": 2.0,
     "details": "Two pounds for a random fidget surprise.",
-    "icon": "./banners/luckydip.webp"
+    "icon": "./banners/luckdip.webp"
   }
 ]
