@@ -12,18 +12,6 @@
     "icon": "./banners/infinitycube.webp"
   },
   {
-    "name": "Ratchet fidget",
-    "price": 0.5,
-    "details": "Clicky noise keeps you on task.",
-    "icon": "./banners/ratchetfidget.jpg"
-  },
-  {
-    "name": "The Rocktpus",
-    "price": 2.0,
-    "details": "Tentacled beast with a lighting slot.",
-    "icon": "./banners/therocktpus.webp"
-  },
-  {
     "name": "Lucky Dip",
     "price": 2.0,
     "details": "Two pounds for a random fidget surprise.",
